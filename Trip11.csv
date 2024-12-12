@@ -1,0 +1,7 @@
+,id,name,email,aspect,comments,rating,Unnamed: 6,sentiment,y,clean_review,clean_review2
+0,1,Yenugu Poojitha,yenugupoojithareddy3107@gmail.com,service,The tourist place had provided good services,4,,Good,1,tourist place provide good service,"['tourist', 'place', 'provide', 'good', 'service']"
+1,2,chitra,chitra123@gmail.com,food,The food given in the restaurant was delicious. I found it enjoyable!,5,,Excellent,3,food give restaurant delicious I find enjoyable,"['food', 'give', 'restaurant', 'delicious', 'i', 'find', 'enjoyable']"
+2,3,saaket,saaket123@gmail.com,ambience,The relaxed ambience of Thrissur was popular with temples.,3,,Good,1,relaxed ambience thrissur popular temple,"['relaxed', 'ambience', 'thrissur', 'popular', 'temple']"
+3,4,sravani,sravani18@gmail.com,food,The historical prestige and the hotel ambience was good and the service was on point. Good trip!,4,,Excellent,3,historical prestige hotel ambience good service point good trip,"['historical', 'prestige', 'hotel', 'ambience', 'good', 'service', 'point', 'good', 'trip']"
+4,5,rishikesh,rishikesh31@gmail.com,service,Hotel services were good,3,,Very Good,2,hotel service good,"['hotel', 'service', 'good']"
+5,6,vinay,vinay14@gmail.com,hospitality,"I became ill, so I was admitted in a hospital for 3 days.",3, ,Bad,-1,I become ill I admit hospital 3 day,"['i', 'become', 'ill', 'i', 'admit', 'hospital', '3', 'day']"
